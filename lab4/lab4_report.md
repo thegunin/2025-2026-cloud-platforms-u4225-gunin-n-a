@@ -148,7 +148,7 @@ Date of finished: 02.12.2025
 ---
 
 ## Диаграмма
-![MVP Schema.png](MVP Schema.png)
+![MVP Schema.png](/MVP Schema.png)
 
 ## Обоснование выбора ресурсов
 
