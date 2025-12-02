@@ -6,7 +6,6 @@ Course: [introduction-in-web-tech](https://itmo-ict-faculty.github.io/introducti
 Year: 2025/2026  
 Group: U4225  
 Author: Гунин Никита Алексеевич
-Lab: Lab2  
 Date of create: 01.12.2025  
 Date of finished: 01.12.2025
 
