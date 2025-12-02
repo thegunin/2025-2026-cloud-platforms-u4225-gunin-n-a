@@ -147,6 +147,9 @@ Date of finished: 02.12.2025
 
 ---
 
+## Ссылка на диаграмму в Drawio 
+Ссылка: https://drive.google.com/file/d/1RYEtbSvEM7WOJJ4xTWDc_GVDRuulN9z6/view?usp=sharing 
+
 ## Обоснование выбора ресурсов
 
 - **Cloud Run** — идеален для MVP: быстро, дешево, без серверов.  
