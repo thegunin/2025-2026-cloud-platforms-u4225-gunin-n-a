@@ -37,15 +37,9 @@ Date of finished: 01.12.2025
 
 Перед созданием нового сервиса важно убедиться, что среда “чистая” и не перепутается с уже существующими. Это также фиксирует начальное состояние для отчёта.
 
-**Скриншоты**
-
-Главная страница Cloud Run:
+**Скриншот**
 
 ![Cloud Run dashboard](./screenshots/lab2_step1_cloud_run_dashboard.png)
-
-Пустой список сервисов:
-
-![Cloud Run empty](./screenshots/lab2_step1_cloud_run_empty.png)
 
 ---
 
